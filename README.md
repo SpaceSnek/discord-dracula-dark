@@ -5,11 +5,11 @@ Another Dracula influenced theme for Vencord!
 FORKED FROM [`rushiiMachine/discord-dracula`] !
 
 ## Additional Credits from rushiiMachine
-```
+
 [`fawni/dracula`]!
 [`scattagain/VencordStuff`]!
 [`MaiRiosIPla/unshittify-discord`]!
-```
+
 [//]: # (@formatter:off)
 
 [`rushiiMachine/discord-dracula`]: https://github.com/rushiiMachine/discord-dracula
