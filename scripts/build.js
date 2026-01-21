@@ -14,9 +14,9 @@ try {
 	let output = `
 /**
  * @name dracula
- * @description cute dracula theme for discord~
- * @author rushii
- * @website https://github.com/rushiiMachine/discord-dracula
+ * @description Dark Dracula for vencord
+ * @author SpaceSnek
+ * @website https://github.com/SpaceSnek/discord-dracula-dark
  */
 /* This file is not versioned and is not linked to an update URL! */
 `.trimStart();
